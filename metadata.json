@@ -1,0 +1,6 @@
+{
+  "name": "YFC Prime Gym Banswara",
+  "description": "Bigger, better, stronger gym website in Banswara, Rajasthan featuring imported equipment, elite coaches, transformation plans, and luxury facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
